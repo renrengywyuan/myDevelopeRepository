@@ -692,7 +692,6 @@
 				86C9002D2878030D001E7DFB /* NetworkTool */,
 				86C9002A2878030D001E7DFB /* Config */,
 				86C900292878030D001E7DFB /* Library */,
-				86C9002C2878030D001E7DFB /* Resources */,
 				86C9002E2878030D001E7DFB /* Support */,
 				862D08102877CA73000E331C /* Assets.xcassets */,
 				862D08122877CA73000E331C /* LaunchScreen.storyboard */,
@@ -917,13 +916,6 @@
 				862D08052877CA71000E331C /* AppDelegate.m */,
 			);
 			path = AppDelegate;
-			sourceTree = "<group>";
-		};
-		86C9002C2878030D001E7DFB /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		86C9002D2878030D001E7DFB /* NetworkTool */ = {
